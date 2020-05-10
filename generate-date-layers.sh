@@ -1,0 +1,10 @@
+egrep '/(2008|2009|2010|2011)/' lets-move-to.tsv > layers/by-date/2008-2011.tsv
+grep '/2012/' lets-move-to.tsv > layers/by-date/2012.tsv
+grep '/2013/' lets-move-to.tsv > layers/by-date/2013.tsv
+grep '/2014/' lets-move-to.tsv > layers/by-date/2014.tsv
+grep '/2015/' lets-move-to.tsv > layers/by-date/2015.tsv
+grep '/2016/' lets-move-to.tsv > layers/by-date/2016.tsv
+grep '/2017/' lets-move-to.tsv > layers/by-date/2017.tsv
+grep '/2018/' lets-move-to.tsv > layers/by-date/2018.tsv
+grep '/2019/' lets-move-to.tsv > layers/by-date/2019.tsv
+grep '/2020/' lets-move-to.tsv > layers/by-date/2020.tsv
